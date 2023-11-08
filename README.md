@@ -23,7 +23,7 @@ Um den Code auszuführen sollte zunächst git installiert werden.
 
 ### Öffne Anaconda.Navigator
 
-- gehe auf Enviroments und klicke "Create" mit Python 3.11 und namen hsel
+- gehe auf Enviroments und klicke "Create" mit Python 3.10 und namen hsel
 
 ### Öffne Anaconda Prompt
 
