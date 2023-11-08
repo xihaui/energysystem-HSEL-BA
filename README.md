@@ -6,9 +6,9 @@ Um den Code auszuführen sollte zunächst git installiert werden.
 
 ## Zur eigenständigen Nutzung: 
 
-### Installiere Git, Anaconda, Python und IDE (beispielsweise VSCode)
+### Installiere GithubDesktop, Anaconda, Python und IDE (beispielsweise VSCode)
 
-- Git für Windows: https://gitforwindows.org/
+- Github Desktop für Windows: https://desktop.github.com/
 
 - Installiere Anaconda: https://www.anaconda.com/download/
 
@@ -17,7 +17,7 @@ Um den Code auszuführen sollte zunächst git installiert werden.
 
 ### Clone das repository
 
- - öffne "Git CMD" und gib den code ein, um den Code zu clonen:
+ - öffne "Github Desktop" und clone das repository:
 
 - `git clone https://github.com/xihaui/energysystem-HSEL-BA.git`
 
@@ -40,4 +40,3 @@ Um den Code auszuführen sollte zunächst git installiert werden.
 - wähle die erstellte Enviroment "hsel" als Kernel
 
 - führe den Code aus
-`
